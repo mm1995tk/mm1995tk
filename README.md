@@ -1,4 +1,4 @@
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/mm1995tk/mm1995tk/">
     <img src="https://komarev.com/ghpvc/?username=mm1995tk" alt="mm1995tk" />
   </a>
@@ -10,9 +10,20 @@
   </a>
 </p>
 
-- I'm interstead in 
+### I'm interstead in
   - Rust
   - Functional Programming
   - Domain Modeling Made Functional
   - category theory
   - type class
+
+### Status
+
+<a href="https://github.com/mm1995tk/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mm1995tk&count_private=true&show_icons=true&theme=omni" />
+</a>
+<a href="https://github.com/mm1995tk/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm1995tk&theme=omni" />
+</a>
+  
+
