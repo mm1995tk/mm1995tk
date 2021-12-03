@@ -1,7 +1,4 @@
 <p align="left">
-  <a href="https://github.com/mm1995tk/mm1995tk/">
-    <img src="https://komarev.com/ghpvc/?username=mm1995tk" alt="mm1995tk" />
-  </a>
   <a href="http://twitter.com/mm1995tk">
     <img height="20" src="https://img.shields.io/twitter/follow/mm1995tk?label=Twitter&logo=twitter&style=flat" />
   </a>
