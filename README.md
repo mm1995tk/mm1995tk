@@ -7,12 +7,7 @@
   </a>
 </p>
 
-### I'm interstead in
-  - Rust
-  - Functional Programming
-  - Domain Modeling Made Functional
-  - category theory
-  - type class
+
 
 ### Status
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mm1995tk&count_private=true&show_icons=true&theme=omni" />
